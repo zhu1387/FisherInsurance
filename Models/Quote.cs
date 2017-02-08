@@ -8,7 +8,5 @@ namespace FisherInsurance.Models
     public DateTime ExpireDate { get; set; }
     public decimal Price { get; set; }
     
-    PolicyType {string}
-    LossDate
     }
 }

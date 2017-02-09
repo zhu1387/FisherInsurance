@@ -18,7 +18,7 @@ public class LifeController : Controller
             Price = 45.00M
         };
         
-   // return Ok("This is the quotequote of the LifeController");
+     // return Ok("This is the quotequote of the LifeController");
         return View(quote);
     }
 }
